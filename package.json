@@ -14,7 +14,9 @@
 	"dependencies": {
 		"googleapis": "~0.4.5",
 		"inquirer": "~0.3.5",
-		"optimist": "~0.6.0"
+		"optimist": "~0.6.0",
+		"colors": "~0.6.2",
+		"open": ""
 	},
 	"devDependencies": {
 		"jshint": "~2.1.9",
